@@ -1,13 +1,11 @@
 Welcome to my blog!
 
-I'm an aspiring cybersecurity practitioner. I hold OSCP certification, as well as CCNA, CompTIA Security+ (SY0-701), and SBT Blue Team Level 1.
+I work in offensive security. I hold the OSCP, CCNA, CompTIA Security+ (SY0-701), and BTL1 certifications.
 
-After graduating from a technical high school specializing in IT, I’ve been focused on developing both my networking and security skills through hands-on experience.
+I graduated from a technical high school with a focus on IT, then built my skills through hands-on work in networking and security.
 
-I enjoy building labs, testing real-world scenarios, and continuously challenging myself to grow.
+My areas of interest are penetration testing, red teaming, and purple teaming.
 
-My goal is to find a job in cybersecurity and become a well-rounded security professional by combining offensive and defensive knowledge in practical, impactful ways.
+I build labs, test real-world attack scenarios, and keep learning through practice.
 
-On this blog, I’ll be sharing detailed writeups of Hack The Box machines, CTF challenges, and practical notes from my learning journey — all aimed at helping others understand and apply cybersecurity concepts through real-world examples.
-
-👉 Currently open to cybersecurity roles — feel free to connect!.
+On this blog, I write up Hack The Box machines and CTF challenges.
